@@ -1,0 +1,15 @@
+# Kaggle API token
+kaggle.json
+
+# Kaggle datasets
+Plant_Disease_Dataset/
+
+# Ignore virtual environments
+dataminingenv/
+
+
+# Ignore DLLs and large binary files
+*.dll
+*.pyd
+*.so
+*.dylib
